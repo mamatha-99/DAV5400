@@ -1,0 +1,20 @@
+[
+  {
+    "album_title": "Abbey Road",
+    "artist": "The Beatles",
+    "year": 1969,
+    "tracks": ["Come Together", "Something", "Maxwell's Silver Hammer", "Oh! Darling", "Octopus's Garden"]
+  },
+  {
+    "album_title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "year": 1973,
+    "tracks": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky"]
+  },
+  {
+    "album_title": "Rumours",
+    "artist": "Fleetwood Mac",
+    "year": 1977,
+    "tracks": ["Second Hand News", "Dreams", "Never Going Back Again", "Don't Stop", "Go Your Own Way"]
+  }
+]
